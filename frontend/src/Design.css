@@ -1,0 +1,26 @@
+.maintxt {position: relative;}
+
+.maintxt > img, .overlay-text {
+    position: absolute;
+    
+}
+.design{
+    margin-top: -10%;
+    margin-left: 35%;
+    text-align: center;
+    font-size: 35px;
+    font-family: sans-serif;
+    font-style: oblique;
+
+  transform: translate(40%, 40%);
+}
+.custom-font{
+    color: #a5a1a1;
+    font-family: IBM Plex Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+  
+  
